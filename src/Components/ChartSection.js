@@ -15,8 +15,8 @@ function ChartSection() {
                     <div className="chart-left">
                         <div className="stats">
                             <div className="stats-money">
-                                <ChartStats name={'Balance'} amount={'$250'} />
-                                <ChartStats name={'Last Transaction'} amount={'$1,000'} />
+                                <ChartStats name={'バランス'} amount={'25,000'} />
+                                <ChartStats name={'最新の状態'} amount={'$100,000'} />
                             </div>
                             <img src={chart} alt="" />
                         </div>
