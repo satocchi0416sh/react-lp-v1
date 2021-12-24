@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/react-lp-v1/static/js/main.10b19692.chunk.js",
+    "main.js.map": "/react-lp-v1/static/js/main.10b19692.chunk.js.map",
+    "runtime-main.js": "/react-lp-v1/static/js/runtime-main.3b90de62.js",
+    "runtime-main.js.map": "/react-lp-v1/static/js/runtime-main.3b90de62.js.map",
+    "static/js/2.18912e18.chunk.js": "/react-lp-v1/static/js/2.18912e18.chunk.js",
+    "static/js/2.18912e18.chunk.js.map": "/react-lp-v1/static/js/2.18912e18.chunk.js.map",
+    "index.html": "/react-lp-v1/index.html",
+    "static/js/2.18912e18.chunk.js.LICENSE.txt": "/react-lp-v1/static/js/2.18912e18.chunk.js.LICENSE.txt",
+    "static/media/active.ad4eb840.svg": "/react-lp-v1/static/media/active.ad4eb840.svg",
+    "static/media/arrow.ffe11b41.svg": "/react-lp-v1/static/media/arrow.ffe11b41.svg",
+    "static/media/avatar1.5c8ddd5a.svg": "/react-lp-v1/static/media/avatar1.5c8ddd5a.svg",
+    "static/media/avatar2.38cb94e2.svg": "/react-lp-v1/static/media/avatar2.38cb94e2.svg",
+    "static/media/avatar3.275a95b9.svg": "/react-lp-v1/static/media/avatar3.275a95b9.svg",
+    "static/media/avatar4.11b7073a.svg": "/react-lp-v1/static/media/avatar4.11b7073a.svg",
+    "static/media/avatar5.2b7fa26b.svg": "/react-lp-v1/static/media/avatar5.2b7fa26b.svg",
+    "static/media/bg.b734ddb3.svg": "/react-lp-v1/static/media/bg.b734ddb3.svg",
+    "static/media/blob_bottom.85de3f6d.svg": "/react-lp-v1/static/media/blob_bottom.85de3f6d.svg",
+    "static/media/blob_top.0eedfd1c.svg": "/react-lp-v1/static/media/blob_top.0eedfd1c.svg",
+    "static/media/chart.a84f440e.svg": "/react-lp-v1/static/media/chart.a84f440e.svg",
+    "static/media/check-disabled.babe4907.svg": "/react-lp-v1/static/media/check-disabled.babe4907.svg",
+    "static/media/check.e9231ca7.svg": "/react-lp-v1/static/media/check.e9231ca7.svg",
+    "static/media/circleBg.b225a296.svg": "/react-lp-v1/static/media/circleBg.b225a296.svg",
+    "static/media/conversation.7d746c46.svg": "/react-lp-v1/static/media/conversation.7d746c46.svg",
+    "static/media/creditcard.769cef4d.svg": "/react-lp-v1/static/media/creditcard.769cef4d.svg",
+    "static/media/inactive.900a873f.svg": "/react-lp-v1/static/media/inactive.900a873f.svg",
+    "static/media/lines.cfb8e2d3.svg": "/react-lp-v1/static/media/lines.cfb8e2d3.svg",
+    "static/media/logo.102027f6.svg": "/react-lp-v1/static/media/logo.102027f6.svg",
+    "static/media/message_blue.3065b5d0.svg": "/react-lp-v1/static/media/message_blue.3065b5d0.svg",
+    "static/media/message_pink.3b52b420.svg": "/react-lp-v1/static/media/message_pink.3b52b420.svg",
+    "static/media/minus.cd170c1e.svg": "/react-lp-v1/static/media/minus.cd170c1e.svg",
+    "static/media/phone.9ffcf787.svg": "/react-lp-v1/static/media/phone.9ffcf787.svg",
+    "static/media/plus.dc424d02.svg": "/react-lp-v1/static/media/plus.dc424d02.svg",
+    "static/media/ring_orange.25b28ee1.svg": "/react-lp-v1/static/media/ring_orange.25b28ee1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b90de62.js",
+    "static/js/2.18912e18.chunk.js",
+    "static/js/main.10b19692.chunk.js"
+  ]
+}
